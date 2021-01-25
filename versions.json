@@ -1,5 +1,5 @@
 {
-    "versions":[
-        {"version":"1.0.0","langs":["langs/1_0_0/en.json","langs/1_0_0/ru.json"]}
-    ]
+  "versions": [
+    "\"{\"version\":\"1.0.0\",\"langs\":[\"langs/1_0_0/en.json\",\"langs/1_0_0/ru.json\"]"
+  ]
 }
